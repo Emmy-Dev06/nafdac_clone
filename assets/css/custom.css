@@ -1,0 +1,162 @@
+.headertxt {
+	font-size: 0.6rem;
+}
+
+.tailor-text {
+	margin-top: 20%;
+	color: white;
+}
+
+#bg {
+	background-image: url('https://nafdac.gov.ng/wp-content/uploads/elementor/thumbs/Traceability-cover-scaled-qn2xevmz9y0r568uf6gkd5e371kf6bl3o4tot29mpg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed !important;
+	background-size: cover;
+	height: 400px !important;
+	border-radius: 10px 10px !important;
+}
+
+.bg1 {
+	background-image: url('https://nafdac.gov.ng/wp-content/uploads/elementor/thumbs/drug-store-qlmp3o4u19uy4vi3ja5pmsge6ex19e6ibrc104p3ck.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 400px !important;
+	border-radius: 10px 10px !important;
+}
+
+.bg2 {
+	background-image: url('https://nafdac.gov.ng/wp-content/uploads/elementor/thumbs/Vaccines-qln9m0cyecl9u30u5flv7h10cbqhibc5u78hupybsk.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 400px !important;
+	border-radius: 10px 10px !important;
+}
+
+#drug1 {
+	background-image: url('https://nafdac.gov.ng/wp-content/uploads/2023/10/drug-s1.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 400px !important;
+	border-radius: 10px 10px !important;
+}
+
+#drug2 {
+	background-image: url('https://cdn.britannica.com/50/123550-050-885369B3/Prozac-pills.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 400px !important;
+	border-radius: 10px 10px !important;
+}
+
+#drug3 {
+	background-image: url('https://nafdac.gov.ng/wp-content/uploads/2023/10/drug-s3.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 400px !important;
+	border-radius: 10px 10px !important;
+}
+
+#food1 {
+	background-image: url('https://nafdac.gov.ng/wp-content/uploads/2024/03/Food-Processing.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 400px !important;
+	border-radius: 10px 10px !important;
+}
+
+#food2 {
+	background-image: url('https://nafdac.gov.ng/wp-content/uploads/2023/10/food-1.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 400px !important;
+	border-radius: 10px 10px !important;
+}
+
+#food3 {
+	background-image: url('https://nafdac.gov.ng/wp-content/uploads/2023/10/Food-spotlight2.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 400px !important;
+	border-radius: 10px 10px !important;
+}
+
+.h-large {
+	font-size: 50px;
+}
+
+#mynavbar li a:hover {
+	color: green !important;
+	font-size: 18px;
+}
+
+.border-tops {
+	border-top: 2px solid green !important;
+	width: 70%;
+}
+
+.border-bottom {
+	width: 20% !important;
+	border-bottom: 3px solid green !important;
+}
+
+
+.bg-primary {
+	background-color: #227645 !important;
+}
+
+.btn-success {
+	background-color: #227645 !important;
+}
+
+.text-success {
+	color: #227645 !important;
+}
+
+.list {
+	list-style-type: none;
+}
+
+.navbar-dark {
+	background-color: #d9f5e4 !important;
+}
+
+.bg-light-success {
+	background-color: #d9f5e4 !important;
+}
+
+.bg-success {
+	background-color: #d9f5e4 !important;
+}
+
+.border-tops1 {
+	border-top: 2px solid green !important;
+	width: 100%;
+}
+
+.icons a {
+	font-size: 32px !important;
+	margin-right: 30px;
+	background-color: #fff !important;
+	color: #000 !important;
+	padding: 0 5px;
+	border-radius: 5px !important;
+}
+
+.icons a:hover {
+	background-color: #d9f5e4 !important;
+	padding: 0 5px;
+	border-radius: 5px !important;
+}
+
+#services li a:hover {
+	color: #d9f5e4 !important;
+	font-size: 18px;
+}
